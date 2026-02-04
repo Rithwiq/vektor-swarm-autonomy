@@ -1,7 +1,9 @@
 # **VEKTOR-S: Safe Swarm Decision Stack**
 
 VEKTOR-S is a **small but principled research demonstrator** for **distributed decision-making and safe coordination in multi-robot systems**.
-
+<p align="center">
+  <img src="media/demo.gif" width="480">
+</p>
 The focus is **not** on scale or photorealism, but on **clarity**:
 how high-level decisions emerge from *local sensing and neighbour interactions*, and how those decisions are grounded in *physical motion under safety constraints*.
 
